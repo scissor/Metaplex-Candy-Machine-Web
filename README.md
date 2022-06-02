@@ -7,5 +7,9 @@ NFT mint website base on Metaplex CandyMachine v2.
 ## QuickStart
 
 ```shell
-yarn start && yarn run
+yarn install && yarn start
 ```
+
+## Demo
+
+https://metaplex-candy-machine-web.scissorlee.repl.co/
