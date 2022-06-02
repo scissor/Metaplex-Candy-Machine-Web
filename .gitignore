@@ -20,7 +20,6 @@ yarn-error.log*
 !js/packages/metaplex/src/utils/globals.css
 js/.eslintcache
 target
-.env
 .vscode
 bin
 config.json
